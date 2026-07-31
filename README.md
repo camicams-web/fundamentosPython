@@ -93,7 +93,5 @@ Este repositório faz parte da minha trajetória de aprendizado em programação
 
 <div align="center">
 
-🚀 Aprender programação é evoluir um algoritmo de cada vez.
-
 
 </div>
